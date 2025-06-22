@@ -1,1 +1,3 @@
-# financial_tweets
+# Financial Tweets Sentiment Analysis and Stock Correlation Prediction
+
+This project explores the predictive power of Twitter sentiment on stock returns using deep learning models. We compare Bi-LSTM, BERT, RoBERTa-Twitter, and FinBERT architectures, including hybrid variants combining textual and numeric features, on a large dataset of sentiment-labelled financial tweets. Our results show that transformer-based models, especially hybrid RoBERTa-Twitter, outperform traditional approaches across multiple return horizons (1-, 2-, 3-, and 7-day). The work demonstrates how integrating social media sentiment with market indicators can enhance short-term stock forecasting.
